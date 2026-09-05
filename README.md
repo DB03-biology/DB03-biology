@@ -60,6 +60,16 @@
 
 <br>
 
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DB03-biology&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DB03-biology&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" alt="Top Languages" />
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DB03-biology&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" />
 </div>
