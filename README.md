@@ -11,7 +11,7 @@
 <a href="https://orcid.org/0009-0002-3014-1771"><img src="https://img.shields.io/badge/ORCID-0009--0002--3014--1771-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/CSIR--UGC%20NET-99.92%20Percentile-2E8B57?style=flat-square" alt="CSIR NET">
+<img src="https://img.shields.io/badge/CSIR--UGC%20NET-99.92%20Percentile (Top %30.1%25)-2E8B57?style=flat-square" alt="CSIR NET">
 <img src="https://img.shields.io/badge/IIT--JAM-AIR%2098%20(Top%201%25)-2E8B57?style=flat-square" alt="IIT-JAM">
 <img src="https://img.shields.io/badge/IELTS%20Academic-7.5%20Overall-4B8BBE?style=flat-square" alt="IELTS">
 </p>
