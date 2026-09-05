@@ -72,6 +72,8 @@ Characterized the bZIP domain of *E. siliculosus* Aureochromes through all-atom 
 * Acknowledged contributor (data analysis, *K*d calculation, image generation) — *"FeSBCP Analogue from Cyanobacteria: Insights from in vitro and in silico Studies."* **Photochem. Photobiol. Sci.** 2025; 24:2095–2108. doi:[10.1007/s43630-025-00814-8](https://doi.org/10.1007/s43630-025-00814-8) | bioRxiv: [10.1101/2025.08.30.673201](https://doi.org/10.1101/2025.08.30.673201)
 * Acknowledged contributor (*K*d calculation, data analysis, experimental assistance) — *"Random Mutagenesis for the Generation of Repertoire of Aureochrome-based Optogenetic Scaffolds."* Preprint (2025); bioRxiv: [10.64898/2025.12.26.696586](https://doi.org/10.64898/2025.12.26.696586)
 
+<br> 
+
 **Conference Presentations**
 
 * Poster Presentation — *"Emerging Trends in Disease Biology: Mechanisms to Medicine"*, International Conference, IIT Kharagpur (Feb 2026)
