@@ -91,6 +91,10 @@ Characterized the bZIP domain of *E. siliculosus* Aureochromes through all-atom 
 
 <br>
 
+### Side Quests
+
+**Chess:** Lichess Mean Rapid Rating - 1438 | [Profile](https://lichess.org/@/RikiGamer_03)
+
 <br>
 
 <div align="center">
