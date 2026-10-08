@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Debarshi Bose — Structural Biochemistry and Computational Biophysics" width="100%">
+  <img src="banner.png" alt="Debarshi Bose — Structural Biochemistry and Computational Biophysics" width="80%">
 </p>
 
 <p align="center">
@@ -49,11 +49,12 @@ I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, 
 
 | Domain | Methods |
 | :--- | :--- |
-| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, ML-assisted structure prediction |
+| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, structure prediction |
 | Wet-lab biochemistry | Rational mutagenesis, molecular cloning, EMSA, in vitro protein assays |
 | Photobiology | LOV-domain photochemistry, fluorescence kinetics, PAS-domain evolution |
-| Programming | C |
+| Transcription Factors | basic Leucine Zippers: Characterization, Modifications, Dynamics with DNA |
+| Programming | C , Python |
 
 <img src="divider.svg" alt="" width="100%">
 
-<p align="center"><sub>Open to conversations with labs working on photoreceptors, protein dynamics and optogenetic tool design. <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
+<p align="center"><sub>Open to conversations: <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
