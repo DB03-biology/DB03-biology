@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/IELTS%20Academic-7.5%20Overall-4B8BBE?style=flat-square&labelColor=0B1020" alt="IELTS Academic 7.5">
 </p>
 
-<img src="divider.svg" alt="" width="100%">
+---
 
 > I work where experimental protein biochemistry meets computational biophysics: photobiochemistry, transient protein dynamics and optogenetics, studied through *in vitro* assays and *in silico* molecular dynamics.
 
@@ -48,12 +48,12 @@ I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, 
 
 | Domain | Methods |
 | :--- | :--- |
-| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, structure prediction |
+| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, ML-assisted structure prediction |
 | Wet-lab biochemistry | Rational mutagenesis, molecular cloning, EMSA, in vitro protein assays |
 | Photobiology | LOV-domain photochemistry, fluorescence kinetics, PAS-domain evolution |
-| Transcription Factors | basic Leucine Zippers: Characterization, Modifications, Dynamics with DNA |
-| Programming | C , Python |
+| Transcription Factors | basic Leucine Zippers: Characterization, Evolution, Modifications, Dynamics with DNA |
+| Programming | C, Python |
 
-<img src="divider.svg" alt="" width="100%">
+---
 
-<p align="center"><sub>Open to conversation: <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
+<p align="center"><sub>Open to conversations: <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
