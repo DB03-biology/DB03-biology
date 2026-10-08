@@ -31,6 +31,19 @@ I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, 
 
 <br>
 
+### Selected Publications
+
+* **Bose, D.**, Ghosh, A., Khamaru, M. & Mitra, D. (2026). *From atoms to algae: Aureochromes in photobiology and optogenetics*. **Algal Research**. doi: [10.1016/j.algal.2026.104733](https://doi.org/10.1016/j.algal.2026.104733).
+* Khamaru, M., **Bose, D.**, Deb, A., & Mitra, D. (2025). *Decoding sequence-structure-function-evolution of basic leucine zippers of aureochromes from heterokont algae*. **Journal of Structural Biology**. doi:[10.1016/j.jsb.2025.108283](https://doi.org/10.1016/j.jsb.2025.108283).
+
+
+   ——— **Acknowledged Contributions** ———
+
+  * Acknowledged contributor (data analysis, *K*d calculation, image generation) — *"FeSBCP Analogue from Cyanobacteria: Insights from in vitro and in silico Studies."* **Photochem. Photobiol. Sci.** 2025; 24:2095–2108. doi:[10.1007/s43630-025-00814-8](https://doi.org/10.1007/s43630-025-00814-8)
+  * Acknowledged contributor (*K*d calculation, data analysis, experimental assistance) — *"Random Mutagenesis for the Generation of Repertoire of Aureochrome-based Optogenetic Scaffolds."* Preprint (2025); bioRxiv: [10.64898/2025.12.26.696586](https://doi.org/10.64898/2025.12.26.696586)
+
+<br>
+
 ### Research experience
 
 * **Postgraduate Researcher** | *Structural Biochemistry & Optogenetics Lab*
@@ -44,15 +57,23 @@ I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, 
 
 <br>
 
-### Technical expertise
+### Technical Expertise
 
-| Domain | Methods |
+| Domain | Methodologies & Technologies |
 | :--- | :--- |
-| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, ML-assisted structure prediction |
-| Wet-lab biochemistry | Rational mutagenesis, molecular cloning, EMSA, in vitro protein assays |
-| Photobiology | LOV-domain photochemistry, fluorescence kinetics, PAS-domain evolution |
-| Transcription Factors | basic Leucine Zippers: Characterization, Evolution, Modifications, Dynamics with DNA |
-| Programming | C, Python |
+| **Simulation & Modeling** | GROMACS, Rosetta, AlphaFold, AutoDock Vina, HADDOCK |
+| **Structure Visualization** | PyMol, VMD, ChimeraX, LigPlot |
+| **Programming & Data** | C, Python, R, Java, Shell Scripting, Gnuplot, LaTeX |
+| **Protein Biochemistry** | IMAC, Gel-Filtration (SEC), Ion-Exchange Chromatography, Protein Crystallography |
+| **Molecular Biology** | Genomic/Plasmid DNA Isolation, PCR Mutagenesis, Molecular Cloning, PAGE |
+| **Biophysical Assays** | FRET, EMSA, Fluorescence & UV-Vis Spectroscopy |
+
+<br>
+
+### Recent Conference Presentation
+
+* Poster Presentation — *"Emerging Trends in Disease Biology: Mechanisms to Medicine"*, International Conference, IIT Kharagpur (Feb 2026)
+<br>
 
 ---
 
