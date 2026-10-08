@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Debarshi Bose — Structural Biochemistry and Computational Biophysics" width="80%">
+  <img src="banner.svg" alt="Debarshi Bose — Structural Biochemistry and Computational Biophysics" width="100%">
 </p>
 
 <p align="center">
