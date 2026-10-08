@@ -1,102 +1,59 @@
-<div align="center">
-<h1>Debarshi Bose</h1>
-<h3>Structural Biochemistry & Computational Biophysics</h3>
-
-<p><b>🎓 Seeking Fall 2027 PhD positions in Structural Biology / Biophysics / Biochemistry / Optogenetics</b></p>
-
-<p>
-<a href="mailto:dbose2709@gmail.com"><img src="https://img.shields.io/badge/Email-dbose2709%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=CDulYNoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://www.linkedin.com/in/bosedebarshi03/"><img src="https://img.shields.io/badge/LinkedIn-bosedebarshi03-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://orcid.org/0009-0002-3014-1771"><img src="https://img.shields.io/badge/ORCID-0009--0002--3014--1771-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+<p align="center">
+  <img src="banner.svg" alt="Debarshi Bose — Structural Biochemistry and Computational Biophysics" width="100%">
 </p>
-<p>
-<img src="https://img.shields.io/badge/CSIR--UGC%20NET-99.92%20Percentile (Top %30.1%25)-2E8B57?style=flat-square" alt="CSIR NET">
-<img src="https://img.shields.io/badge/IIT--JAM-AIR%2098%20(Top%201%25)-2E8B57?style=flat-square" alt="IIT-JAM">
-<img src="https://img.shields.io/badge/IELTS%20Academic-7.5%20Overall-4B8BBE?style=flat-square" alt="IELTS">
+
+<p align="center">
+  <a href="mailto:dbose2709@gmail.com"><img src="https://img.shields.io/badge/Email-dbose2709%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=CDulYNoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0B1020" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/bosedebarshi03/"><img src="https://img.shields.io/badge/LinkedIn-bosedebarshi03-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0002-3014-1771"><img src="https://img.shields.io/badge/ORCID-0009--0002--3014--1771-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0B1020" alt="ORCID"></a>
 </p>
-</div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/CSIR--UGC%20NET-99.92%20Percentile-2E8B57?style=flat-square&labelColor=0B1020" alt="CSIR-UGC NET 99.92 percentile">
+  <img src="https://img.shields.io/badge/IIT--JAM-AIR%2098%20(Top%201%25)-2E8B57?style=flat-square&labelColor=0B1020" alt="IIT-JAM AIR 98">
+  <img src="https://img.shields.io/badge/IELTS%20Academic-7.5%20Overall-4B8BBE?style=flat-square&labelColor=0B1020" alt="IELTS Academic 7.5">
+</p>
 
-> **M.Sc. Life Sciences Scholar at Presidency University, Kolkata**
-> Specializing in the intersection of experimental protein biochemistry and computational biophysics. My research investigates photobiochemistry, transient protein dynamics, and optogenetics through a hybrid approach of *in vitro* assays and *in silico* molecular dynamics.
+<img src="divider.svg" alt="" width="100%">
+
+> **M.Sc. Life Sciences, Presidency University, Kolkata**
+> I work where experimental protein biochemistry meets computational biophysics: photobiochemistry, transient protein dynamics and optogenetics, studied through *in vitro* assays and *in silico* molecular dynamics.
 
 <br>
 
-### Research Interests Going Forward
+### Where I want to take this next
 
-I'm looking to pursue a PhD that pushes further into the structural and dynamic basis of photoreceptor function and its engineering applications. Specific directions I want to develop:
+I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, Biochemistry and Optogenetics, aiming to push further into the structural and dynamic basis of photoreceptor function and its engineering applications.
 
-* **Mechanistic dissection of Protein Structure and Allostery** in photoreceptors and/or DNA/Protein-Interacting Proteins— linking residue(s) and modification(s) to conformational switching and downstream signaling, using a combination of biophysical assays and MD simulation.
-* **Rational design of next-generation optogenetic tools** — engineering photoreceptor scaffolds with tunable kinetics and spectral properties for use as genetically encoded sensors/actuators.
-* **Bridging structural bioinformatics with wet-lab validation** — building predictive models (docking, MD, ML-assisted structure prediction) that are iteratively tested and refined through experimental biophysics, rather than treated as separate tracks.
+* **Protein structure and allostery.** Linking specific residues and modifications to conformational switching and downstream signaling in photoreceptors and DNA/protein-interacting proteins, using biophysical assays alongside MD simulation.
+* **Next-generation optogenetic tools.** Engineering photoreceptor scaffolds with tunable kinetics and spectral properties as genetically encoded sensors and actuators.
+* **Prediction and validation as one loop.** Docking, MD and ML-assisted structure prediction, tested and refined through experimental biophysics instead of run as a separate track.
 
 <br>
 
-### Research Experience
+### Research experience
 
 * **Postgraduate Researcher** | *Structural Biochemistry & Optogenetics Lab*
-Investigating molecular evolution of PAS domains and evaluating salt concentration effects on LOV-FMN dynamics.
+  Molecular evolution of PAS domains; effect of salt concentration on LOV-FMN dynamics.
 * **Optogenetics Engineering** | *Value Added Course Project*
-Engineered a novel LOV-domain fluorophore via rational mutagenesis, achieving improved quantum yield and altered fluorescence kinetics.
+  Engineered a novel LOV-domain fluorophore by rational mutagenesis, with improved quantum yield and altered fluorescence kinetics.
 * **Computational Biophysics** | *JNU Summer Research Fellow*
-Developed custom C code to simulate active biopolymer systems and thermal energy distributions using Langevin dynamics.
+  Wrote custom C code to simulate active biopolymer systems and thermal energy distributions with Langevin dynamics.
 * **Protein-DNA Dynamics** | *Undergraduate Research*
-Characterized the bZIP domain of *E. siliculosus* Aureochromes through all-atom MD simulations, molecular cloning, and EMSA validation.
+  Characterized the bZIP domain of *E. siliculosus* Aureochromes through all-atom MD, molecular cloning and EMSA validation.
 
 <br>
 
-### Technical Expertise
+### Technical expertise
 
-| Domain | Methodologies & Technologies |
+| Domain | Methods |
 | :--- | :--- |
-| **Simulation & Modeling** | GROMACS, Rosetta, AlphaFold, AutoDock Vina, HADDOCK |
-| **Structure Visualization** | PyMol, VMD, ChimeraX, LigPlot |
-| **Programming & Data** | C, Python, R, Java, Shell Scripting, Gnuplot, LaTeX |
-| **Protein Biochemistry** | IMAC, Gel-Filtration (SEC), Ion-Exchange Chromatography, Protein Crystallography |
-| **Molecular Biology** | Genomic/Plasmid DNA Isolation, PCR Mutagenesis, Molecular Cloning, PAGE |
-| **Biophysical Assays** | FRET, EMSA, Fluorescence & UV-Vis Spectroscopy |
+| Computational biophysics | All-atom molecular dynamics, Langevin dynamics, docking, ML-assisted structure prediction |
+| Wet-lab biochemistry | Rational mutagenesis, molecular cloning, EMSA, in vitro protein assays |
+| Photobiology | LOV-domain photochemistry, fluorescence kinetics, PAS-domain evolution |
+| Programming | C |
 
-<br>
+<img src="divider.svg" alt="" width="100%">
 
-### Selected Publications
-
-* **Bose, D.**, Ghosh, A., Khamaru, M. & Mitra, D. (2026). *From atoms to algae: Aureochromes in photobiology and optogenetics*. **Algal Research**. doi: [10.1016/j.algal.2026.104733](https://doi.org/10.1016/j.algal.2026.104733).
-* Khamaru, M., **Bose, D.**, Deb, A., & Mitra, D. (2025). *Decoding sequence-structure-function-evolution of basic leucine zippers of aureochromes from heterokont algae*. **Journal of Structural Biology**. doi:[10.1016/j.jsb.2025.108283](https://doi.org/10.1016/j.jsb.2025.108283).
-
-<br>
-
-**Acknowledged Contributions**
-
-* Acknowledged contributor (data analysis, *K*d calculation, image generation) — *"FeSBCP Analogue from Cyanobacteria: Insights from in vitro and in silico Studies."* **Photochem. Photobiol. Sci.** 2025; 24:2095–2108. doi:[10.1007/s43630-025-00814-8](https://doi.org/10.1007/s43630-025-00814-8) | bioRxiv: [10.1101/2025.08.30.673201](https://doi.org/10.1101/2025.08.30.673201)
-* Acknowledged contributor (*K*d calculation, data analysis, experimental assistance) — *"Random Mutagenesis for the Generation of Repertoire of Aureochrome-based Optogenetic Scaffolds."* Preprint (2025); bioRxiv: [10.64898/2025.12.26.696586](https://doi.org/10.64898/2025.12.26.696586)
-
-<br> 
-
-**Conference Presentations**
-
-* Poster Presentation — *"Emerging Trends in Disease Biology: Mechanisms to Medicine"*, International Conference, IIT Kharagpur (Feb 2026)
-
-<br>
-
-### Academic Excellence & Honors
-
-* **Govt. of India's Joint CSIR-UGC National Eligibility Test Fellowship** (2026)
-*Ranked in the Top 0.1% Nationwide (99.92 Percentile)* — India's national PhD-eligibility exam, taken by 200,000+ life-science applicants annually
-* **IIT-JAM in Biotechnology** (2025)
-*Ranked in the Top 1% Nationwide (AIR 98)* — national entrance exam for master's/PhD admission across India's premier science institutes
-* **TIFR-JEEBILS** — Qualified (2025); **IISER Pune Integrated PhD** — Offer received (2025)
-* **IASc–INSA–NASI Summer Research Fellowship Programme** (2024)
-
-<br>
-
-### Side Quests
-
-**Chess:** Lichess Mean Rapid Rating - 1438 | [Profile](https://lichess.org/@/RikiGamer_03)
-
-<br>
-
-<div align="center">
-<i>Open to research collaborations and PhD opportunities in structural biology, biophysics, biochemistry, and optogenetics — feel free to reach out.</i>
-</div>
+<p align="center"><sub>Open to conversations with labs working on photoreceptors, protein dynamics and optogenetic tool design. <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
