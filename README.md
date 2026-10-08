@@ -17,7 +17,6 @@
 
 <img src="divider.svg" alt="" width="100%">
 
-> **M.Sc. Life Sciences, Presidency University, Kolkata**
 > I work where experimental protein biochemistry meets computational biophysics: photobiochemistry, transient protein dynamics and optogenetics, studied through *in vitro* assays and *in silico* molecular dynamics.
 
 <br>
@@ -57,4 +56,4 @@ I'm applying for **Fall 2027 PhD positions** in Structural Biology, Biophysics, 
 
 <img src="divider.svg" alt="" width="100%">
 
-<p align="center"><sub>Open to conversations: <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
+<p align="center"><sub>Open to conversation: <a href="mailto:dbose2709@gmail.com">dbose2709@gmail.com</a></sub></p>
